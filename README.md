@@ -76,7 +76,7 @@ Scripts used:
   4. `vw_channel_margin_report`
   5. `vw_region_category_rankings`
 
-- Views were saved in [`create_views.sql`]()
+- Views were saved in [`create_views.sql`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Views%20Creation.sql)
 
 ---
 
@@ -117,7 +117,7 @@ Scripts used:
 - Dashboard screenshots
 - Dimensional model diagram image
 - README.md documentation
-- This Project Procedure document
+- This is the Project Procedure document
 
 ---
 
