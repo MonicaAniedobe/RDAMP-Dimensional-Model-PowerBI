@@ -103,10 +103,10 @@ Scripts used:
   - Discount vs Profit Scatter Plot
   - Average Order Value by Segment (Combo Chart)
   - Top 10 Customers by Profit (Bar Chart)
-  - Category Ranking by Region (Matrix/Bar Chart)
+  - Category Ranking by Region (Matrix chart)
 
-- Saved final dashboard as `AceSuperstore_Dashboard_AniedobeMonicaChinaza.pbix`
-- Exported and saved screenshots for each visualization into the `powerbi/screenshots/` directory.
+- Saved final dashboard as [`AceSuperstore_Dashboard_AniedobeMonicaChinaza.pbix`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Screenshot%20(39).png)
+- Exported and saved screenshots for visualization into the `powerbi/screenshots/` directory.
 
 ---
 
