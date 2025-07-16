@@ -76,7 +76,7 @@ Scripts used:
   4. `vw_channel_margin_report`
   5. `vw_region_category_rankings`
 
-- Views were saved in `create_views_AniedobeMonicaChinaza.sql`.
+- Views were saved in [`create_views.sql`]()
 
 ---
 
@@ -89,7 +89,7 @@ Scripts used:
   - Total Quantity Sold by Region
   - Customer Order Frequency
 
-- Saved queries inside `queries_AniedobeMonicaChinaza.sql`
+- Saved queries inside [`create queries_.sql`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/queries%20scripts.sql)
 
 ---
 
