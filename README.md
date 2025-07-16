@@ -53,7 +53,7 @@ Order Date, Year, Month, Quarter
 
 ## ✅ Stage 3: Table Creation and Data Population  
 
-- Wrote SQL scripts to create all dimension and fact tables [`create_tables_AniedobeMonicaChinaza.sql`](
+- Wrote SQL scripts to create all dimension and fact tables [`create_tables_AniedobeMonicaChinaza.sql`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Table%20scripts.sql)
 - Populated each dimension table from `raw_sales`, ensuring:
   - No duplicates
   - Cleaned and standardized text fields
