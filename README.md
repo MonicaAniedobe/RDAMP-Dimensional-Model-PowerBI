@@ -63,7 +63,7 @@ Order Date, Year, Month, Quarter
 
 Scripts used:
 - [`populate_dimensions.sql`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Dimension%20Table.sql)
-- [`populate_fact_table.sql`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Dimension%20Table.sql
+- [`populate_fact_table.sql`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Fact%20table.sql)
 
 ---
 
