@@ -23,7 +23,7 @@ The project was executed in six clear stages:
 
 ## ✅ Stage 1: Data Preparation  
 
-- Received the cleaned sales dataset (`Ace Sales Clean Dataset.csv`)[]
+- Received the cleaned sales dataset [`Ace Sales Clean Dataset.csv`](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Ace%20Sales%20Clean%20Dataset.csv.csv)
 - Launched **PostgreSQL** and created a new database `acesalesdb`.
 - Created a staging table `raw_sales` with appropriate data types to temporarily hold the raw data.
 - Imported the cleaned CSV file into the `raw_sales` table using PostgreSQL’s `\copy` command or via pgAdmin’s Import tool.
@@ -53,7 +53,7 @@ Order Date, Year, Month, Quarter
 
 ## ✅ Stage 3: Table Creation and Data Population  
 
-- Wrote SQL scripts to create all dimension and fact tables (`create_tables_AniedobeMonicaChinaza.sql`).
+- Wrote SQL scripts to create all dimension and fact tables [`create_tables_AniedobeMonicaChinaza.sql`](
 - Populated each dimension table from `raw_sales`, ensuring:
   - No duplicates
   - Cleaned and standardized text fields
