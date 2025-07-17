@@ -115,7 +115,7 @@ Scripts used:
 - SQL scripts for table creation, data population, views, and queries
 - Power BI dashboard file (.pbix)
 - Dashboard screenshots
-- Dimensional model diagram image
+- [Dimensional model diagram image](https://github.com/MonicaAniedobe/RDAMP-Dimensional-Model-PowerBI/blob/main/Screenshot%20(40).png)
 - README.md documentation
 - This is the Project Procedure document
 
